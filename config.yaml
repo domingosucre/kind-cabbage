@@ -65,6 +65,7 @@ params:
         style: icon
         icon: linkedin
         new_window: true
+  domain: 'https://kind-cabbage-c008e.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
